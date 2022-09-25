@@ -1,5 +1,7 @@
 # This is an <h1> header
 ## This is an <h2 header
+                  
+ 
                  
   
 <!--
@@ -8,7 +10,10 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
-
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+  
 # Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
